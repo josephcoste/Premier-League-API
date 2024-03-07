@@ -1,6 +1,17 @@
 # Premier League API
 
 This is a free Premier league rankings API for the top 20 teams of the seasons.
+### Team Schema
+
+| Field       | Type   | Description                                                                       |
+| ----------- | ------ | --------------------------------------------------------------------------------- |
+|   Name      | String | The name of the team                                                              |
+|  ranking    | String | team postion number                                                               |
+|  captain    | String | leader of the team                                                                |
+|  banner     | String | Team logo                                                                         |
+|  founded    | String | Year the team was created                                                         |
+|  stadium    | String | Stadium location                                                                  |
+
 
 API endpoint "teams".
 
