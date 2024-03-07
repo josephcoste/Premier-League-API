@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Arsenal",
+        "ranking": 2,
+        "captain": "Martin Ødegaard",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_48x48.png",
+        "founded": 1886,
+        "stadium": "Emirates Stadium"
+    },
+    {
+        "name": "Aston Villa",
+        "ranking": 2,
+        "captain": "John McGinn",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_48x48.png",
+        "founded": 1874,
+        "stadium": "Villa Park"
+    },
+    {
+        "name": "Brentford",
+        "ranking": 3,
+        "captain": "Pontus Jansson",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_48x48.png",
+        "founded": 1889,
+        "stadium": "Brentford Community Stadium"
+    },
+    {
+        "name": "Brighton & Hove Albion",
+        "ranking": 4,
+        "captain": "Lewis Dunk",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_48x48.png",
+        "founded": 1901,
+        "stadium": "American Express Community Stadium"
+    },
+    {
+        "name": "Chelsea",
+        "ranking": 5,
+        "captain": "César Azpilicueta",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_48x48.png",
+        "founded": 1905,
+        "stadium": "Stamford Bridge"
+    },
+    {
+        "name": "Crystal Palace",
+        "ranking": 6,
+        "captain": "Luka Milivojevic",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_48x48.png",
+        "founded": 1905,
+        "stadium": "Selhurst Park"
+    },
+    {
+        "name": "Everton",
+        "ranking": 7,
+        "captain": "Seamus Coleman",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_48x48.png",
+        "founded": 1878,
+        "stadium": "Goodison Park"
+    },
+    {
+        "name": "Fulham",
+        "ranking": 8,
+        "captain": "Tom Cairney",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_48x48.png",
+        "founded": 1879,
+        "stadium": "Craven Cottage"
+    },
+    {
+        "name": "Leeds United",
+        "ranking": 9,
+        "captain": "Liam Cooper",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/5dqfOKpjjW6EwTAx_FysKQ_48x48.png",
+        "founded": 1919,
+        "stadium": "Elland Road"
+    },
+    {
+        "name": "Leicester City",
+        "ranking": 10,
+        "captain": "Kasper Schmeichel",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_48x48.png",
+        "founded": 1884,
+        "stadium": "King Power Stadium"
+    },
+    {
+        "name": "Liverpool",
+        "ranking": 11,
+        "captain": "Jordan Henderson",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_48x48.png",
+        "founded": 1892,
+        "stadium": "Anfield"
+    },
+    {
+        "name": "Manchester City",
+        "ranking": 1,
+        "captain": "Ilkay Gündogan",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_48x48.png",
+        "founded": 1880,
+        "stadium": "Etihad Stadium"
+    },
+    {
+        "name": "Manchester United",
+        "ranking": 13,
+        "captain": "Harry Maguire",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_48x48.png",
+        "founded": 1878,
+        "stadium": "Old Trafford"
+    },
+    {
+        "name": "Newcastle United",
+        "ranking": 14,
+        "captain": "Jamaal Lascelles",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_48x48.png",
+        "founded": 1892,
+        "stadium": "St James' Park"
+    },
+    {
+        "name": "Nottingham Forest",
+        "ranking": 15,
+        "captain": "Joe Worrall",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_48x48.png",
+        "founded": 1865,
+        "stadium": "City Ground"
+    },
+    {
+        "name": "Southampton",
+        "ranking": 16,
+        "captain": "James Ward-Prowse",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_48x48.png",
+        "founded": 1885,
+        "stadium": "St Mary's Stadium"
+    },
+    {
+        "name": "Tottenham Hotspur",
+        "ranking": 17,
+        "captain": "Hugo Lloris",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_48x48.png",
+        "founded": 1882,
+        "stadium": "Tottenham Hotspur Stadium"
+    },
+    {
+        "name": "West Ham United",
+        "ranking": 18,
+        "captain": "Declan Rice",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_48x48.png",
+        "founded": 1895,
+        "stadium": "London Stadium"
+    },
+    {
+        "name": "Wolverhampton Wanderers",
+        "ranking": 19,
+        "captain": "Conor Coady",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_48x48.png",
+        "founded": 1877,
+        "stadium": "Molineux Stadium"
+    },
+    {
+        "name": "Bournemouth",
+        "ranking": 20,
+        "captain": "Steve Cook",
+        "banner": "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_48x48.png",
+        "founded": 1890,
+        "stadium": "Vitality Stadium"
+    }
+]
