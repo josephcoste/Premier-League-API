@@ -13,7 +13,16 @@ This is a free Premier league rankings API for the top 20 teams of the seasons.
 |  stadium    | String | Stadium location                                                                  |
 
 
-API endpoint "teams".
+### API Endpoints
+
+| HTTP Verbs | Endpoints               | Action                           |
+| ---------- | ----------------------- | -------------------------------- |
+| GET        | /api/sports             | Gets all teams                   |
+| GET        | /api/sports/:teamId     | Gets specific teams based on id  |
+| POST       | /api/sports/add-team    | Create a team                    |
+| PUT        | /api/sports/:teamId     | Update specific team             |
+| DELETE     | /api/sports/:teamId     | To delete a single team          |
+
 
 API link needed to for data request.
 
