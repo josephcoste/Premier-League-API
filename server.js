@@ -6,18 +6,26 @@ import logger from "morgan";
 
 const app = express();
 
-const PORT = 3000;
+// DEFINE PORT
+const PORT = process.env.PORT|| 3000;
 
+// MIDDLEWARE
 app.use(express.json());
 app.use(cors());
-app.use(logger("dev"));
+app.use(logger("dev")); // only add if you use morgan
 
+// MOUNNT ROUTES -- PREPEND ALL ROUTES WITH /whatever-you-want
 app.use("/api", routes);
 
-connection.on("connected", () => {
+// CONNECT TO DATABASE
+db.on("connected", () => {
   console.clear();
-  console.log("connected to MongoDB");
+  console.log(chalk.blue("Connected to MongoDB!")); //delete chalk.blue if you aren't using chalk
+
+  // SET UP SERVER TO LISTEN FOR REQUESTS ON PORT
   app.listen(PORT, () => {
-    console.log(`express server is running on port ${PORT}`);
+    process.env.NODE_ENV === "production"
+      ? console.log(`Express server running in production on port ${PORT}`)
+      : console.log(`Express server running in development on: ${PORT}`);
   });
 });
