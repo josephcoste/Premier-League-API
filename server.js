@@ -18,7 +18,7 @@ app.use(logger("dev")); // only add if you use morgan
 app.use("/api", routes);
 
 // CONNECT TO DATABASE
-db.on("connected", () => {
+connection.on("connected", () => {
   console.clear();
   console.log(chalk.blue("Connected to MongoDB!")); //delete chalk.blue if you aren't using chalk
 
