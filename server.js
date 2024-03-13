@@ -20,7 +20,7 @@ app.use("/api", routes);
 // CONNECT TO DATABASE
 connection.on("connected", () => {
   console.clear();
-  console.log(chalk.blue("Connected to MongoDB!")); //delete chalk.blue if you aren't using chalk
+  console.log("Connected to MongoDB!"); //delete chalk.blue if you aren't using chalk
 
   // SET UP SERVER TO LISTEN FOR REQUESTS ON PORT
   app.listen(PORT, () => {
